@@ -1,4 +1,4 @@
-# Projeto 1 - Desenvolvimento de Game em Linguagem Python - Versão 2
+# Projeto 1 - Desenvolvimento de Game em Linguagem Python 
 
 import random
 
